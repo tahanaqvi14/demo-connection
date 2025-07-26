@@ -5,7 +5,7 @@ app.use(express.json());
 
 
 // Connection URI
-const MONGO_URI = `mongodb+srv://taha:taha@game-cluster.wo5ddpl.mongodb.net/?retryWrites=true&w=majority&appName=Game-cluster`;
+const MONGO_URI = `YOUR DB URL FROM MONGODB`;
 
 
 let DisplayName; // This will be your model for `displayname` collection
